@@ -1,0 +1,98 @@
+Gene ID,LFC,Adj p-val,Gene symbol,Gene name
+106580424,4.72,1.6E-33,LOC106580424,"B-cell linker protein-like, transcript variant X4"
+106569761,-6.66,8.3E-07,LOC106569761,WAS/WASL-interacting protein family member 1-like
+106595834,-2.46,4.1E-06,LOC106595834,uncharacterized LOC106595834
+106591016,2.92,4.1E-06,LOC106591016,"uncharacterized LOC106591016, transcript variant X2"
+106580596,-0.8,2.3E-05,LOC106580596,"28S ribosomal protein S27, mitochondrial-like"
+106568779,-5.99,5.5E-05,LOC106568779,transferrin receptor protein 1-like
+106593398,-0.82,8.8E-05,LOC106593398,uncharacterized LOC106593398
+100196392,4.81,3.0E-04,gba,"glucosidase, beta, acid"
+106583612,-1.4,3.0E-04,LOC106583612,"uncharacterized LOC106583612, transcript variant X2"
+106580158,0.63,5.9E-04,LOC106580158,"rhotekin-like, transcript variant X2"
+106579914,-0.7,1.3E-03,adgrd1,"adhesion G protein-coupled receptor D1, transcript variant X2"
+106580407,-0.32,5.5E-03,kif2a,"kinesin heavy chain member 2A, transcript variant X3"
+106565717,-0.86,6.9E-03,pseudogene,pseudogene
+106590055,-2.74,6.9E-03,LOC106590055,"cadherin-6-like, transcript variant X1"
+106602956,-4.51,6.9E-03,LOC106602956,"phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform-like"
+106575730,3.39,7.8E-03,LOC106575730,mannan-binding lectin serine protease 2-like
+106580597,-4.03,8.4E-03,LOC106580597,cyclic AMP-responsive element-binding protein 3-like
+106608487,0.48,9.9E-03,LOC106608487,butyrophilin subfamily 1 member A1-like
+106567746,-0.85,1.0E-02,LOC106567746,uncharacterized LOC106567746
+106582110,0.86,1.0E-02,LOC106582110,nuclear receptor subfamily 1 group D member 2-like
+106585979,-0.44,1.2E-02,LOC106585979,terminal uridylyltransferase 7-like
+106582456,3.48,1.3E-02,LOC106582456,B-cell receptor CD22-like
+106586294,1.42,1.3E-02,LOC106586294,"uncharacterized LOC106586294, transcript variant X2"
+106607965,0.28,1.8E-02,sesn1,"sestrin 1, transcript variant X2"
+106578654,0.87,1.8E-02,vit,"vitrin, transcript variant X1"
+106591142,-0.46,2.0E-02,LOC106591142,uncharacterized LOC106591142
+106612483,0.39,2.0E-02,itpkc,"inositol-trisphosphate 3-kinase C, transcript variant X2"
+106579347,4.92,2.0E-02,LOC106579347,guanylate cyclase 2G-like
+106580697,5.25,2.0E-02,LOC106580697,WD repeat-containing protein on Y chromosome-like
+106601467,0.85,2.0E-02,LOC106601467,ras-related C3 botulinum toxin substrate 2
+106580518,2.46,2.0E-02,LOC106580518,"zinc metalloproteinase-disintegrin-like brevilysin H2a, transcript variant X1"
+106582823,0.54,2.4E-02,LOC106582823,"tumor necrosis factor receptor superfamily member 1B-like, transcript variant X1"
+106585981,-1.0,2.5E-02,LOC106585981,uncharacterized LOC106585981
+100217352,0.91,2.7E-02,i14k,14 kDa transmembrane protein
+106594870,-3.34,2.7E-02,LOC106594870,"ATPase family AAA domain-containing protein 2-like, transcript variant X2"
+106604553,0.91,2.8E-02,LOC106604553,SAM and SH3 domain-containing protein 3-like
+106580662,3.89,2.8E-02,gpr171,"G protein-coupled receptor 171, transcript variant X5"
+106585831,0.99,2.8E-02,mpeg1,macrophage expressed 1
+106612385,0.57,2.8E-02,LOC106612385,"suppressor of cytokine signaling 3-like, transcript variant X3"
+106611656,0.7,2.9E-02,LOC106611656,beta-crystallin B1-like
+106581832,-0.51,2.9E-02,LOC106581832,"uridine 5'-monophosphate synthase-like, transcript variant X1"
+106585631,1.89,2.9E-02,LOC106585631,"caspase recruitment domain-containing protein 9-like, transcript variant X1"
+106583163,2.33,2.9E-02,LOC106583163,uncharacterized LOC106583163
+106610249,0.83,2.9E-02,LOC106610249,"monocarboxylate transporter 4-like, transcript variant X4"
+106560984,0.37,2.9E-02,LOC106560984,"SRSF protein kinase 2-like, transcript variant X4"
+106603221,-4.19,2.9E-02,LOC106603221,"cornifelin homolog B-like, transcript variant X2"
+106611879,1.14,2.9E-02,LOC106611879,"uncharacterized LOC106611879, transcript variant X1"
+100380688,-0.69,3.0E-02,LOC100380688,"calcium-dependent secretion activator 1, transcript variant X1"
+106570004,0.4,3.0E-02,LOC106570004,hepatic leukemia factor-like
+106569477,2.77,3.1E-02,LOC106569477,"leucine-rich repeat-containing protein 16B-like, transcript variant X2"
+106567602,3.79,3.1E-02,LOC106567602,alpha-tectorin-like
+106604869,-0.99,3.2E-02,LOC106604869,"uncharacterized protein PB18E9.04c-like, transcript variant X1"
+106576872,0.6,3.2E-02,LOC106576872,"C-X-C motif chemokine 9-like, transcript variant X1"
+100196383,0.82,3.2E-02,rab37,"Ras-related protein Rab-37, transcript variant X3"
+106580164,-0.77,3.3E-02,LOC106580164,"uncharacterized LOC106580164, transcript variant X3"
+106603533,4.64,3.5E-02,LOC106603533,uncharacterized LOC106603533
+106580133,5.84,4.0E-02,LOC106580133,"uncharacterized LOC106580133, transcript variant X2"
+106583129,2.42,4.1E-02,LOC106583129,"CD2-associated protein-like, transcript variant X1"
+106581655,1.58,4.1E-02,LOC106581655,"P2Y purinoceptor 8-like, transcript variant X2"
+106607831,0.4,4.3E-02,LOC106607831,"EH domain-containing protein 3, transcript variant X1"
+106606914,-0.95,4.3E-02,LOC106606914,"GTPase IMAP family member 4-like, transcript variant X2"
+100195064,0.44,4.3E-02,il4ra,"Interleukin-4 receptor alpha chain, transcript variant X2"
+106564678,0.92,4.5E-02,LOC106564678,"phosphoinositide 3-kinase regulatory subunit 5-like, transcript variant X1"
+106575541,0.33,4.5E-02,LOC106575541,"pre-B-cell leukemia transcription factor-interacting protein 1-like, transcript variant X4"
+106570610,0.38,4.9E-02,LOC106570610,"uncharacterized LOC106570610, transcript variant X2"
+106578277,-3.0,4.9E-02,LOC106578277,epidermal growth factor receptor kinase substrate 8-like protein 1
+106561737,0.59,5.1E-02,LOC106561737,reelin-like
+106583436,0.31,5.3E-02,LOC106583436,"hyaluronidase-2-like, transcript variant X1"
+106568913,-4.57,5.7E-02,LOC106568913,phosducin-like
+106583670,1.57,5.7E-02,LOC106583670,"nuclear factor of activated T-cells, cytoplasmic 2-like"
+106565112,0.86,5.8E-02,LOC106565112,cryptochrome-1-like
+106588713,0.4,6.2E-02,LOC106588713,ADP-ribosylation factor-like protein 4A
+106603665,3.65,6.4E-02,LOC106603665,"pannexin-3-like, transcript variant X1"
+100136378,0.81,6.5E-02,LOC100136378,nuclear receptor subfamily 1 group D member 2
+106560408,2.86,6.5E-02,LOC106560408,"NAD-dependent protein deacylase sirtuin-5, mitochondrial-like"
+106608004,-0.5,6.5E-02,LOC106608004,"echinoderm microtubule-associated protein-like 6, transcript variant X6"
+100194996,-0.2,6.5E-02,tm2d2,"TM2 domain-containing protein 2, transcript variant X1"
+106610273,-0.47,7.7E-02,LOC106610273,"acidic leucine-rich nuclear phosphoprotein 32 family member B-like, transcript variant X1"
+100195444,0.49,7.7E-02,ripk4,"receptor-interacting serine-threonine kinase 4, transcript variant X1"
+106565797,-1.76,8.0E-02,LOC106565797,"opioid growth factor receptor-like, transcript variant X1"
+106608304,0.49,8.1E-02,LOC106608304,"acetyl-coenzyme A synthetase 2-like, mitochondrial"
+106589985,-0.36,8.1E-02,LOC106589985,calpain-2 catalytic subunit-like
+106593533,-1.17,8.4E-02,LOC106593533,"protein odd-skipped-related 2, transcript variant X1"
+106583543,0.51,8.4E-02,LOC106583543,"myelin basic protein-like, transcript variant X4"
+106575526,0.58,8.4E-02,LOC106575526,P2Y purinoceptor 8-like
+106604849,0.58,8.4E-02,LOC106604849,arylsulfatase I-like
+106608341,1.41,8.6E-02,LOC106608341,tyrosine-protein kinase Lck-like
+106578029,0.52,8.7E-02,LOC106578029,GTPase IMAP family member 7-like
+106608691,-4.19,8.7E-02,LOC106608691,uncharacterized LOC106608691
+106607799,0.47,8.8E-02,LOC106607799,cation-independent mannose-6-phosphate receptor-like
+106590110,-0.6,8.8E-02,LOC106590110,"uncharacterized LOC106590110, transcript variant X2"
+106609863,-2.58,9.0E-02,pseudogene,pseudogene
+106576920,-7.01,9.0E-02,LOC106576920,uncharacterized LOC106576920
+106602987,-0.37,9.0E-02,LOC106602987,"neurexin-2-like, transcript variant X15"
+106589997,5.32,9.0E-02,LOC106589997,striatin-like
+106585608,0.53,9.4E-02,LOC106585608,"vinexin-like, transcript variant X2"
+100195433,-0.28,9.8E-02,mep50,"Methylosome protein 50, transcript variant X1"

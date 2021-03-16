@@ -1,0 +1,25 @@
+﻿Nutrient group,Micronutrient,L1,L2,L3
+Vitamin,Vitamin A,3.79,7.58,15.16
+,Vitamin D3,0.05,0.1,0.2
+,Vitamin E,102.4,204.9,409.8
+,Vitamin K3,9.82,19.64,39.28
+,Thiamine (B1),2.67,5.34,10.68
+,Riboflavin (B2),8.3,16.6,33.2
+,Vitamin B6,4.77,9.54,19.08
+,Vitamin B12,0.25,0.5,1
+,Niacin (vitamin B3),24.8,49.6,99.2
+,Pantothenic Acid (vitamin B5),17.15,34.3,68.6
+,Folic Acid (vitamin B9),2.82,5.64,11.28
+,Biotin (vitamin B7),0.14,0.28,0.56
+,Vitamin C,80,160,320
+Micro-mineral,Cobalt (Co),0.94,1.88,3.76
+,Iodine,0.67,1.34,2.68
+,Selenium,0.23,0.46,0.92
+,Iron,32.64,65.28,130.6
+,Manganese,12.03,24.06,48.12
+,Copper,3.24,6.48,12.96
+,Zinc,66.92,133.8,267.7
+Macro-mineral,Calcium (Ca),0.4,0.8,1.6
+Amino acid,Taurine,2450,4900,9800
+,Histidine,1400,2800,5600
+Cholesterol,Cholesterol,1100,2200,4400

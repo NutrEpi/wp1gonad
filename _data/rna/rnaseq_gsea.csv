@@ -1,0 +1,16 @@
+Pathway,KEGG ID,GSEA L2:L1,GSEA L3:L1
+Ribosome biogenesis in eukaryotes,sasa03008,-,-2.68
+RNA transport,sasa03013,-,-2.15
+RNA polymerase,sasa03020,-,-2.48
+DNA replication,sasa03030,-2.31,-2.27
+Spliceosome,sasa03040,-,-2.29
+Nucleotide excision repair,sasa03420,-,-2.05
+Mismatch repair,sasa03430,-2.22,-2.20
+Cytokine-cytokine receptor interaction,sasa04060,2.14,2.19
+Apoptosis,sasa04210,2.00,-
+ECM-receptor interaction,sasa04512,2.22,-
+Cell adhesion molecules,sasa04514,2.18,-
+Toll-like receptor signaling pathway,sasa04620,2.16,-
+NOD-like receptor signaling pathway,sasa04621,2.14,-
+C-type lectin receptor signaling pathway,sasa04625,2.26,-
+Intestinal immune network for IgA production,sasa04672,-,2.13
