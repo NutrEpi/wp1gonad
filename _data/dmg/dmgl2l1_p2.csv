@@ -1,0 +1,290 @@
+Gene ID,Total,GB,Exon,Intron,P,P250,P1K,P5K,Flanks,Gene symbol,Gene name
+106566689,7,0,0,0,7,0,1,6,0,LOC106566689,MAM domain-containing protein 2-like
+106572512,6,0,0,0,6,6,0,0,0,LOC106572512,"glutamate receptor ionotropic, NMDA 3A-like"
+106568987,6,0,0,0,6,0,0,6,0,LOC106568987,"volume-regulated anion channel subunit LRRC8D-like, transcript variant X2"
+106578448,6,0,0,0,6,0,0,6,0,LOC106578448,"aristaless-related homeobox protein-like, transcript variant X1"
+106570383,7,1,0,1,6,0,0,6,0,LOC106570383,triple functional domain protein-like
+106604650,5,0,0,0,5,0,0,5,0,LOC106604650,"myeloid zinc finger 1-like, transcript variant X2"
+106560720,5,0,0,0,5,0,0,5,0,tsg101,tumor susceptibility 101
+106566099,5,0,0,0,5,0,0,5,0,LOC106566099,radical S-adenosyl methionine domain-containing protein 2-like
+100194545,5,0,0,0,5,0,0,5,0,"suppressor of defective silencing 3 homolog (SDS3, S. cerevisiae)","suppressor of defective silencing 3 homolog (SDS3, S. cerevisiae)"
+106576052,7,2,0,2,5,0,0,5,0,LOC106576052,"transcription factor EC-like, transcript variant X3"
+106592999,4,0,0,0,4,0,4,0,0,LOC106592999,uncharacterized protein C10orf107 homolog
+106602592,4,0,0,0,4,0,0,4,0,rin3,"Ras and Rab interactor 3, transcript variant X2"
+106607973,4,0,0,0,4,0,0,4,0,LOC106607973,"pre-mRNA-splicing regulator WTAP-like, transcript variant X2"
+106608776,4,0,0,0,4,0,0,4,0,LOC106608776,E3 ubiquitin-protein ligase KEG-like
+106561821,4,0,0,0,4,0,0,4,0,LOC106561821,zonadhesin-like
+106562142,4,0,0,0,4,0,0,4,0,LOC106562142,UPF0583 protein C15orf59 homolog
+106562942,4,0,0,0,4,0,0,4,0,ankra2,"ankyrin repeat, family A (RFXANK-like), 2"
+100196153,4,0,0,0,4,0,0,4,0,"heat shock protein, alpha-crystallin-related, 1","heat shock protein, alpha-crystallin-related, 1"
+106568352,4,0,0,0,4,0,0,4,0,LOC106568352,"proline-rich extensin-like protein EPR1, transcript variant X1"
+106568597,4,0,0,0,4,0,0,4,0,katnal2,"katanin p60 subunit A-like 2, transcript variant X7"
+106570181,4,0,0,0,4,0,0,4,0,uncharacterized LOC106570181,uncharacterized LOC106570181
+100194478,4,0,0,0,4,0,0,4,0,homeobox protein HoxA5ab,homeobox protein HoxA5ab
+100195857,4,0,0,0,4,0,0,4,0,Carboxypeptidase A1,Carboxypeptidase A1
+106577094,4,0,0,0,4,0,0,4,0,LOC106577094,G-protein coupled receptor 26-like
+106578115,4,0,0,0,4,0,0,4,0,LOC106578115,zinc finger protein 2-like
+106583890,4,0,0,0,4,0,0,4,0,LOC106583890,homeobox protein Dlx4a-like
+106588443,4,0,0,0,4,0,0,4,0,LOC106588443,"voltage-dependent calcium channel gamma-4 subunit-like, transcript variant X2"
+106586664,6,2,2,0,4,0,0,4,0,LOC106586664,insulin receptor substrate 2-like
+106560330,6,2,0,2,4,0,0,4,0,LOC106560330,zinc finger protein 648-like
+106607661,8,4,4,0,4,0,0,4,0,LOC106607661,"grainyhead-like protein 1 homolog, transcript variant X1"
+106581998,10,4,4,0,4,0,0,4,2,LOC106581998,nuclear receptor subfamily 0 group B member 1-like
+106597175,5,2,2,0,3,3,0,0,0,E-selectin-like,E-selectin-like
+106611715,3,0,0,0,3,0,3,0,0,LOC106611715,transmembrane protein 35-like
+106581871,3,0,0,0,3,0,3,0,0,LOC106581871,"progestin and adipoQ receptor family member 6-like, transcript variant X1"
+106578665,4,1,0,1,3,0,3,0,0,LOC106578665,"protein scribble homolog, transcript variant X1"
+106571557,6,3,0,3,3,0,3,0,0,plcb4,"phospholipase C, beta 4, transcript variant X7"
+106589236,3,0,0,0,3,0,2,1,0,LOC106589236,uncharacterized LOC106589236
+106605526,3,0,0,0,3,0,2,1,0,LOC106605526,"importin subunit alpha-6, transcript variant X1"
+106592452,3,0,0,0,3,0,0,3,0,LOC106592452,GTPase IMAP family member 4-like
+106597339,3,0,0,0,3,0,0,3,0,LOC106597339,"uncharacterized LOC106597339, transcript variant X1"
+106602253,3,0,0,0,3,0,0,3,0,cdkl1,"cyclin-dependent kinase-like 1 (CDC2-related kinase), transcript variant X3"
+106602682,3,0,0,0,3,0,0,3,0,LOC106602682,probable G-protein coupled receptor 83
+106607551,3,0,0,0,3,0,0,3,0,LOC106607551,"N-myc proto-oncogene protein-like, transcript variant X2"
+106560516,3,0,0,0,3,0,0,3,0,exocyst complex component 6B-like,exocyst complex component 6B-like
+106562085,3,0,0,0,3,0,0,3,0,wdr36,WD repeat domain 36
+106563685,3,0,0,0,3,0,0,3,0,LOC106563685,"cationic amino acid transporter 3-like, transcript variant X1"
+106563768,3,0,0,0,3,0,0,3,0,LOC106563768,"CLOCK-interacting pacemaker-like, transcript variant X1"
+106563909,3,0,0,0,3,0,0,3,0,LOC106563909,excitatory amino acid transporter 1-like
+106565016,3,0,0,0,3,0,0,3,0,LOC106565016,"RNA-binding protein 39-like, transcript variant X3"
+106565288,3,0,0,0,3,0,0,3,0,LOC106565288,NFX1-type zinc finger-containing protein 1-like
+106565437,3,0,0,0,3,0,0,3,0,LOC106565437,cyclin-dependent kinase 2-like
+106567097,3,0,0,0,3,0,0,3,0,LOC106567097,peptidase inhibitor R3HDML-like
+106568160,3,0,0,0,3,0,0,3,0,LOC106568160,homeobox protein Nkx-6.1-like
+106568804,3,0,0,0,3,0,0,3,0,LOC106568804,neuromedin-U receptor 1-like
+106573938,3,0,0,0,3,0,0,3,0,hiat1,"hippocampus abundant transcript 1, transcript variant X1"
+106575522,3,0,0,0,3,0,0,3,0,LOC106575522,adrenodoxin-like
+106577814,3,0,0,0,3,0,0,3,0,LOC106577814,"dynein heavy chain 2, axonemal-like"
+106578693,3,0,0,0,3,0,0,3,0,LOC106578693,charged multivesicular body protein 5-like
+106579062,3,0,0,0,3,0,0,3,0,LOC106579062,"tectonic-3-like, transcript variant X1"
+100380515,3,0,0,0,3,0,0,3,0,"Beta-1,3-glucosyltransferase","Beta-1,3-glucosyltransferase"
+106580770,3,0,0,0,3,0,0,3,0,LOC106580770,"uncharacterized LOC106580770, transcript variant X3"
+106582999,3,0,0,0,3,0,0,3,0,yod1,YOD1 deubiquitinase
+106584315,3,0,0,0,3,0,0,3,0,LOC106584315,"LIM/homeobox protein Lhx4-like, transcript variant X2"
+106584428,3,0,0,0,3,0,0,3,0,LOC106584428,nuclear factor interleukin-3-regulated protein-like
+106586207,3,0,0,0,3,0,0,3,0,LOC106586207,"collagen alpha-1(XXVIII) chain-like, transcript variant X2"
+106586597,3,0,0,0,3,0,0,3,0,ska3,"spindle and kinetochore associated complex subunit 3, transcript variant X1"
+106587083,3,0,0,0,3,0,0,3,0,LOC106587083,zinc finger protein 501-like
+100195009,4,1,0,1,3,0,0,3,0,cplx1,Complexin-1
+106611166,4,1,0,1,3,0,0,3,0,LOC106611166,"sodium/potassium/calcium exchanger 4-like, transcript variant X3"
+106587421,4,1,0,1,3,0,0,3,0,LOC106587421,muscarinic acetylcholine receptor M5-like
+106569517,5,2,1,1,3,0,0,3,0,LOC106569517,"semaphorin-6B-like, transcript variant X1"
+106611870,5,2,0,2,3,0,0,3,0,LOC106611870,"bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1-like, transcript variant X2"
+106579486,8,5,1,4,3,0,0,3,0,LOC106579486,D(3) dopamine receptor-like
+106608550,5,0,0,0,3,0,0,3,2,LOC106608550,solute carrier family 22 member 7-like
+100380407,6,0,0,0,3,0,0,3,3,ical,"Calpastatin, transcript variant X24"
+106602510,2,0,0,0,2,2,0,0,0,LOC106602510,zinc finger protein 271-like
+100136420,2,0,0,0,2,2,0,0,0,LOC100136420,"lysozyme g, transcript variant X2"
+106560582,2,0,0,0,2,2,0,0,0,"discs, large homolog 1 (Drosophila), transcript variant X1","discs, large homolog 1 (Drosophila), transcript variant X1"
+106581371,2,0,0,0,2,2,0,0,0,uncharacterized threonine-rich GPI-anchored glycoprotein PJ4664.02-like,uncharacterized threonine-rich GPI-anchored glycoprotein PJ4664.02-like
+106582681,2,0,0,0,2,2,0,0,0,LOC106582681,dnaJ homolog subfamily C member 16-like
+106583608,4,2,1,1,2,2,0,0,0,LOC106583608,"tensin-2-like, transcript variant X1"
+106568430,6,4,2,2,2,2,0,0,0,LOC106568430,"putative uncharacterized protein DDB_G0286901, transcript variant X2"
+106585190,10,8,1,7,2,2,0,0,0,fbxl17,"F-box and leucine-rich repeat protein 17, transcript variant X1"
+106611701,2,0,0,0,2,1,1,0,0,LOC106611701,uncharacterized LOC106611701
+106613308,2,0,0,0,2,1,1,0,0,LOC106613308,immunoglobulin superfamily member 10-like
+106606107,2,0,0,0,2,1,0,1,0,LOC106606107,"multimerin-2-like, transcript variant X2"
+106575695,2,0,0,0,2,1,0,1,0,NF-kappa-B inhibitor zeta-like,NF-kappa-B inhibitor zeta-like
+106603792,4,2,0,2,2,1,0,1,0,LOC106603792,"GRAM domain-containing protein 1B-like, transcript variant X1"
+106598919,2,0,0,0,2,0,2,0,0,LOC106598919,"hypoxia-inducible factor 1-alpha, transcript variant X2"
+106599802,2,0,0,0,2,0,2,0,0,cebpd,"CCAAT/enhancer binding protein (C/EBP), delta"
+106592576,2,0,0,0,2,0,2,0,0,transmembrane protein 178B-like,transmembrane protein 178B-like
+106601546,2,0,0,0,2,0,2,0,0,LOC106601546,"uncharacterized LOC106601546, transcript variant X5"
+106603201,2,0,0,0,2,0,2,0,0,LOC106603201,"cell growth regulator with EF hand domain protein 1-like, transcript variant X3"
+106605546,2,0,0,0,2,0,2,0,0,LOC106605546,squalene monooxygenase-like
+100306816,2,0,0,0,2,0,2,0,0,ncoa4,"nuclear receptor coactivator 4, transcript variant X1"
+106607316,2,0,0,0,2,0,2,0,0,LOC106607316,tubulin gamma-1 chain
+100380712,2,0,0,0,2,0,2,0,0,LOC100380712,signal recognition particle receptor subunit alpha
+106565568,2,0,0,0,2,0,2,0,0,LOC106565568,"sodium-coupled neutral amino acid transporter 3-like, transcript variant X1"
+106566451,2,0,0,0,2,0,2,0,0,LOC106566451,partitioning defective 6 homolog beta-like
+106566965,2,0,0,0,2,0,2,0,0,LOC106566965,TAR DNA-binding protein 43-like
+106568509,2,0,0,0,2,0,2,0,0,LOC106568509,kelch-like protein 8
+106568653,2,0,0,0,2,0,2,0,0,wdr33,"WD repeat domain 33, transcript variant X1"
+106568666,2,0,0,0,2,0,2,0,0,LOC106568666,"nucleolar transcription factor 1-A-like, transcript variant X1"
+106572023,2,0,0,0,2,0,2,0,0,LOC106572023,von Willebrand factor A domain-containing protein 1-like
+106573211,2,0,0,0,2,0,2,0,0,LOC106573211,F-box/LRR-repeat protein 14-like
+106574021,2,0,0,0,2,0,2,0,0,LOC106574021,"cytospin-A-like, transcript variant X3"
+106574450,2,0,0,0,2,0,2,0,0,LOC106574450,meckelin-like
+106575588,2,0,0,0,2,0,2,0,0,LOC106575588,histone deacetylase complex subunit SAP18-like
+106577151,2,0,0,0,2,0,2,0,0,LOC106577151,SH2 domain-containing protein 4B-like
+106580122,2,0,0,0,2,0,2,0,0,pomt1,"protein-O-mannosyltransferase 1, transcript variant X1"
+106580808,2,0,0,0,2,0,2,0,0,mpzl3,"myelin protein zero-like 3, transcript variant X2"
+100195739,2,0,0,0,2,0,2,0,0,sec13,"SEC13 homolog, nuclear pore and COPII coat complex component, transcript variant X1"
+106584508,2,0,0,0,2,0,2,0,0,nfyb,"nuclear transcription factor Y, beta, transcript variant X4"
+106589402,2,0,0,0,2,0,2,0,0,LOC106589402,"neurexin-1a-like, transcript variant X4"
+106565137,3,1,1,0,2,0,2,0,0,LOC106565137,rab GDP dissociation inhibitor beta-like
+106600820,3,1,0,1,2,0,2,0,0,LOC106600820,"junction plakoglobin-like, transcript variant X1"
+106577618,3,1,0,1,2,0,2,0,0,LOC106577618,synaptopodin-2-like
+106580282,3,0,0,0,2,0,2,0,1,lnpep,"leucyl/cystinyl aminopeptidase, transcript variant X2"
+100194856,3,0,0,0,2,0,2,0,1,"chromosome ssa21 open reading frame, human CXorf36","chromosome ssa21 open reading frame, human CXorf36"
+106579657,8,5,0,5,2,0,2,0,1,LOC106579657,"receptor-type tyrosine-protein phosphatase mu-like, transcript variant X9"
+106590436,2,0,0,0,2,0,1,1,0,LOC106590436,complement C1q and tumor necrosis factor-related protein 9A-like
+106603540,2,0,0,0,2,0,1,1,0,LOC106603540,protein Wnt-11-like
+106610412,2,0,0,0,2,0,1,1,0,LOC106610412,alpha-2C adrenergic receptor-like
+100136488,2,0,0,0,2,0,1,1,0,LOC100136488,olfactory receptor 146
+106577444,2,0,0,0,2,0,1,1,0,LOC106577444,leucine-rich repeat and calponin homology domain-containing protein 4-like
+106577895,2,0,0,0,2,0,1,1,0,LOC106577895,neurosecretory protein VGF-like
+100196772,2,0,0,0,2,0,1,1,0,dhdh,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+106605233,3,1,1,0,2,0,1,1,0,LOC106605233,sodium channel subunit beta-1-like
+106599401,5,3,0,3,2,0,1,1,0,tnn,"tenascin N, transcript variant X2"
+106589613,2,0,0,0,2,0,0,2,0,ccdc57,"coiled-coil domain containing 57, transcript variant X1"
+106589666,2,0,0,0,2,0,0,2,0,LOC106589666,"regulator of G-protein signaling 17-like, transcript variant X1"
+106589762,2,0,0,0,2,0,0,2,0,LOC106589762,homeobox protein zampogna-like
+106590844,2,0,0,0,2,0,0,2,0,FRAS1-related extracellular matrix protein 2-like,FRAS1-related extracellular matrix protein 2-like
+106591763,2,0,0,0,2,0,0,2,0,LOC106591763,RE1-silencing transcription factor A-like
+106592971,2,0,0,0,2,0,0,2,0,LOC106592971,uromodulin-like
+106594474,2,0,0,0,2,0,0,2,0,zinc finger protein 664-like,zinc finger protein 664-like
+106597078,2,0,0,0,2,0,0,2,0,LOC106597078,uncharacterized LOC106597078
+106593690,2,0,0,0,2,0,0,2,0,LOC106593690,iroquois-class homeodomain protein irx-4-A-like
+106599022,2,0,0,0,2,0,0,2,0,LOC106599022,ras-related protein Rab-3A-like
+106594387,2,0,0,0,2,0,0,2,0,LOC106594387,zinc finger protein 271-like
+106592290,2,0,0,0,2,0,0,2,0,bromodomain-containing protein 4-like,bromodomain-containing protein 4-like
+106599536,2,0,0,0,2,0,0,2,0,exoc3l4,"exocyst complex component 3-like 4, transcript variant X2"
+106599732,2,0,0,0,2,0,0,2,0,LOC106599732,"meprin A subunit beta-like, transcript variant X1"
+106600441,2,0,0,0,2,0,0,2,0,LOC106600441,dual specificity mitogen-activated protein kinase kinase 2-like
+106599990,2,0,0,0,2,0,0,2,0,LOC106599990,leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3
+106600629,2,0,0,0,2,0,0,2,0,LOC106600629,"nuclear receptor coactivator 6-like, transcript variant X4"
+106600748,2,0,0,0,2,0,0,2,0,LOC106600748,zinc finger and SCAN domain-containing protein 22-like
+106600757,2,0,0,0,2,0,0,2,0,LOC106600757,uncharacterized LOC106600757
+100194431,2,0,0,0,2,0,0,2,0,pyy,peptide YY
+106601583,2,0,0,0,2,0,0,2,0,LOC106601583,"uncharacterized LOC106601583, transcript variant X1"
+106603168,2,0,0,0,2,0,0,2,0,LOC106603168,"transmembrane protein 164-like, transcript variant X2"
+106603443,2,0,0,0,2,0,0,2,0,LOC106603443,"syntaxin-binding protein 5-like, transcript variant X2"
+106603541,2,0,0,0,2,0,0,2,0,LOC106603541,"uncharacterized LOC106603541, transcript variant X1"
+106603535,2,0,0,0,2,0,0,2,0,LOC106603535,uromodulin-like 1
+106603527,2,0,0,0,2,0,0,2,0,LOC106603527,protein EURL homolog
+106603897,2,0,0,0,2,0,0,2,0,LOC106603897,H/ACA ribonucleoprotein complex subunit 2-like protein
+106604006,2,0,0,0,2,0,0,2,0,LOC106604006,olfactory receptor 145-like
+106604147,2,0,0,0,2,0,0,2,0,mothers against decapentaplegic homolog 1-like,mothers against decapentaplegic homolog 1-like
+106604376,2,0,0,0,2,0,0,2,0,LOC106604376,"uncharacterized LOC106604376, transcript variant X1"
+106604632,2,0,0,0,2,0,0,2,0,LOC106604632,WD40 repeat-containing protein SMU1
+106604893,2,0,0,0,2,0,0,2,0,pfn3,profilin 3
+100195350,2,0,0,0,2,0,0,2,0,noggin 2,noggin 2
+106605835,2,0,0,0,2,0,0,2,0,LOC106605835,"trichohyalin-like, transcript variant X2"
+106606390,2,0,0,0,2,0,0,2,0,LOC106606390,5-hydroxytryptamine receptor 3A-like
+100380364,2,0,0,0,2,0,0,2,0,Tumor necrosis factor receptor superfamily member 6,Tumor necrosis factor receptor superfamily member 6
+106608636,2,0,0,0,2,0,0,2,0,LOC106608636,"excitatory amino acid transporter 3-like, transcript variant X1"
+100194546,2,0,0,0,2,0,0,2,0,DNA-damage-inducible transcript 4-like,DNA-damage-inducible transcript 4-like
+100195047,2,0,0,0,2,0,0,2,0,CAAX prenyl protease 1 homolog,CAAX prenyl protease 1 homolog
+106610767,2,0,0,0,2,0,0,2,0,myt1l,"myelin transcription factor 1-like, transcript variant X5"
+106610962,2,0,0,0,2,0,0,2,0,LOC106610962,transcription factor IIIB 90 kDa subunit-like
+106611340,2,0,0,0,2,0,0,2,0,LOC106611340,"syntaxin-11-like, transcript variant X1"
+106611599,2,0,0,0,2,0,0,2,0,LOC106611599,"protocadherin-12-like, transcript variant X1"
+106612474,2,0,0,0,2,0,0,2,0,mcam,"melanoma cell adhesion molecule, transcript variant X1"
+106612842,2,0,0,0,2,0,0,2,0,LOC106612842,abhydrolase domain-containing protein 15-like
+100136423,2,0,0,0,2,0,0,2,0,odorant receptor ASOR1-like,odorant receptor ASOR1-like
+100196094,2,0,0,0,2,0,0,2,0,LOC100196094,dipeptidyl peptidase 1
+106613302,2,0,0,0,2,0,0,2,0,LOC106613302,"ras-related protein Rap-2b-like, transcript variant X1"
+106613437,2,0,0,0,2,0,0,2,0,lpar3,"lysophosphatidic acid receptor 3, transcript variant X2"
+106613781,2,0,0,0,2,0,0,2,0,dot1l,"DOT1-like histone H3K79 methyltransferase, transcript variant X3"
+106561070,2,0,0,0,2,0,0,2,0,LOC106561070,proteasome subunit alpha type-1
+100380307,2,0,0,0,2,0,0,2,0,saps3,"SAPS domain family, member 3, transcript variant X2"
+106561214,2,0,0,0,2,0,0,2,0,LOC106561214,"proline-rich transmembrane protein 4-like, transcript variant X1"
+106561702,2,0,0,0,2,0,0,2,0,gpr22,"G protein-coupled receptor 22, transcript variant X2"
+106562111,2,0,0,0,2,0,0,2,0,LOC106562111,lymphatic vessel endothelial hyaluronic acid receptor 1-like
+106562124,2,0,0,0,2,0,0,2,0,fer,"fer (fps/fes related) tyrosine kinase, transcript variant X2"
+106562887,2,0,0,0,2,0,0,2,0,LOC106562887,zinc finger and BTB domain-containing protein 43-like
+106563250,2,0,0,0,2,0,0,2,0,LOC106563250,"uncharacterized LOC106563250, transcript variant X5"
+106564270,2,0,0,0,2,0,0,2,0,LOC106564270,"guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5-like, transcript variant X3"
+100306826,2,0,0,0,2,0,0,2,0,tyrosine phosphatase type IVA 1,tyrosine phosphatase type IVA 1
+106565451,2,0,0,0,2,0,0,2,0,LOC106565451,phosphatidylinositol 5-phosphate 4-kinase type-2 gamma-like
+100380707,2,0,0,0,2,0,0,2,0,LOC100380707,ubiquitin carboxyl-terminal hydrolase 4
+106565793,2,0,0,0,2,0,0,2,0,LOC106565793,"nuclear receptor coactivator 3-like, transcript variant X1"
+106565720,2,0,0,0,2,0,0,2,0,LOC106565720,myb-related protein B-like
+106565876,2,0,0,0,2,0,0,2,0,LOC106565876,kunitz-type serine protease inhibitor Kunitz-1-like
+100196324,2,0,0,0,2,0,0,2,0,Cytosolic sulfotransferase 3,Cytosolic sulfotransferase 3
+106567195,2,0,0,0,2,0,0,2,0,LOC106567195,"uncharacterized LOC106567195, transcript variant X2"
+106567290,2,0,0,0,2,0,0,2,0,LOC106567290,uncharacterized protein C3orf18 homolog
+106567474,2,0,0,0,2,0,0,2,0,LOC106567474,insulin
+106567643,2,0,0,0,2,0,0,2,0,LOC106567643,sodium- and chloride-dependent GABA transporter 2-like
+106568641,2,0,0,0,2,0,0,2,0,LOC106568641,zinc finger and SCAN domain-containing protein 23-like
+106568726,2,0,0,0,2,0,0,2,0,LOC106568726,"plasminogen activator inhibitor 1 RNA-binding protein-like, transcript variant X2"
+106569468,2,0,0,0,2,0,0,2,0,LOC106569468,protocadherin-8-like
+106570118,2,0,0,0,2,0,0,2,0,LOC106570118,IgGFc-binding protein-like
+106570084,2,0,0,0,2,0,0,2,0,LOC106570084,dnaJ homolog subfamily C member 8-like
+106570206,2,0,0,0,2,0,0,2,0,mrpl9,"mitochondrial ribosomal protein L9, transcript variant X3"
+106570296,2,0,0,0,2,0,0,2,0,LOC106570296,"actin-binding protein anillin-like, transcript variant X1"
+106571104,2,0,0,0,2,0,0,2,0,LOC106571104,"actin, alpha cardiac"
+106571534,2,0,0,0,2,0,0,2,0,LOC106571534,cAMP-dependent protein kinase inhibitor beta-like
+106571843,2,0,0,0,2,0,0,2,0,LOC106571843,"protein FAM208A-like, transcript variant X3"
+106572061,2,0,0,0,2,0,0,2,0,LOC106572061,"neural cell adhesion molecule L1-like protein, transcript variant X3"
+106572798,2,0,0,0,2,0,0,2,0,LOC106572798,MOB kinase activator 3B
+106573495,2,0,0,0,2,0,0,2,0,tspan3,tetraspanin 3
+106573775,2,0,0,0,2,0,0,2,0,LOC106573775,repulsive guidance molecule A-like
+106573665,2,0,0,0,2,0,0,2,0,spire2,"spire-type actin nucleation factor 2, transcript variant X2"
+106573965,2,0,0,0,2,0,0,2,0,cadherin-4-like,cadherin-4-like
+106574032,2,0,0,0,2,0,0,2,0,LOC106574032,"cytochrome b-c1 complex subunit 6, mitochondrial-like, transcript variant X1"
+106574105,2,0,0,0,2,0,0,2,0,LOC106574105,unconventional myosin-Ie-like
+100380696,2,0,0,0,2,0,0,2,0,fibronectin,fibronectin
+106576852,2,0,0,0,2,0,0,2,0,LOC106576852,"ubiquitin domain-containing protein 1-like, transcript variant X2"
+106576994,2,0,0,0,2,0,0,2,0,polh,"polymerase (DNA directed), eta, transcript variant X2"
+106577133,2,0,0,0,2,0,0,2,0,LOC106577133,"fibroblast growth factor-binding protein 2-like, transcript variant X2"
+106577329,2,0,0,0,2,0,0,2,0,LOC106577329,vegetative cell wall protein gp1-like
+106577548,2,0,0,0,2,0,0,2,0,LOC106577548,"uncharacterized LOC106577548, transcript variant X1"
+106577657,2,0,0,0,2,0,0,2,0,LOC106577657,rho guanine nucleotide exchange factor 15-like
+100195285,2,0,0,0,2,0,0,2,0,ccs,copper chaperone for superoxide dismutase
+106578569,2,0,0,0,2,0,0,2,0,ppp1r17,"protein phosphatase 1, regulatory subunit 17, transcript variant X1"
+106579477,2,0,0,0,2,0,0,2,0,chrnd,"cholinergic receptor, nicotinic, delta (muscle)"
+106579628,2,0,0,0,2,0,0,2,0,LOC106579628,thioredoxin domain-containing protein 5-like
+106580513,2,0,0,0,2,0,0,2,0,LOC106580513,"tetraspanin-15-like, transcript variant X1"
+106580709,2,0,0,0,2,0,0,2,0,LOC106580709,5-hydroxytryptamine receptor 1A-alpha-like
+106581338,2,0,0,0,2,0,0,2,0,LOC106581338,"NADH dehydrogenase (ubiquinone) complex I, assembly factor 6-like"
+106581773,2,0,0,0,2,0,0,2,0,LOC106581773,"glutamate decarboxylase 1-like, transcript variant X1"
+100195675,2,0,0,0,2,0,0,2,0,T-box 15,T-box 15
+106582333,2,0,0,0,2,0,0,2,0,LOC106582333,gamma-crystallin 1-like
+106582791,2,0,0,0,2,0,0,2,0,LOC106582791,"protein LSM14 homolog B-like, transcript variant X2"
+106583857,2,0,0,0,2,0,0,2,0,LOC106583857,protein FAM46A-like
+100136492,2,0,0,0,2,0,0,2,0,LOC100136492,"steroidogenic acute regulatory protein, mitochondrial"
+100286717,2,0,0,0,2,0,0,2,0,Phosphatidic acid phosphatase type 2 domain-containing protein 1A,Phosphatidic acid phosphatase type 2 domain-containing protein 1A
+106585030,2,0,0,0,2,0,0,2,0,LOC106585030,"kinesin-like protein KIF2A, transcript variant X1"
+106585021,2,0,0,0,2,0,0,2,0,cdk7,cyclin-dependent kinase 7
+106586015,2,0,0,0,2,0,0,2,0,LOC106586015,"interleukin-7 receptor subunit alpha-like, transcript variant X2"
+106586023,2,0,0,0,2,0,0,2,0,LOC106586023,"regulator of nonsense transcripts 3A-like, transcript variant X2"
+106586420,2,0,0,0,2,0,0,2,0,LOC106586420,"sterol 26-hydroxylase, mitochondrial-like, transcript variant X2"
+106587464,2,0,0,0,2,0,0,2,0,LOC106587464,toll-interacting protein-like
+106588845,2,0,0,0,2,0,0,2,0,LOC106588845,"chromobox protein homolog 3-like, transcript variant X1"
+106589430,2,0,0,0,2,0,0,2,0,LOC106589430,neurotrypsin-like
+100306860,3,1,1,0,2,0,0,2,0,Thioredoxin domain-containing protein 1,Thioredoxin domain-containing protein 1
+106566716,3,1,1,0,2,0,0,2,0,LOC106566716,polypeptide N-acetylgalactosaminyltransferase 6-like
+106582908,3,1,1,0,2,0,0,2,0,LOC106582908,"death-inducer obliterator 1-like, transcript variant X7"
+106586050,3,1,1,0,2,0,0,2,0,LOC106586050,G-protein coupled receptor 183-like
+106560212,3,1,0,1,2,0,0,2,0,LOC106560212,fibroblast growth factor receptor 3-like
+106589689,3,1,0,1,2,0,0,2,0,LOC106589689,"RAC-gamma serine/threonine-protein kinase, transcript variant X2"
+106605311,3,1,0,1,2,0,0,2,0,LOC106605311,"lamin-A-like, transcript variant X2"
+106608008,3,1,0,1,2,0,0,2,0,zbtb2,zinc finger and BTB domain containing 2
+106607673,3,1,0,1,2,0,0,2,0,LOC106607673,"muscarinic acetylcholine receptor M3-like, transcript variant X1"
+106560454,3,1,0,1,2,0,0,2,0,LOC106560454,epithelial chloride channel protein-like
+106574551,3,1,0,1,2,0,0,2,0,LOC106574551,heparan-sulfate 6-O-sulfotransferase 3-like
+106579325,3,1,0,1,2,0,0,2,0,LOC106579325,proto-oncogene Wnt-3-like
+106582727,3,1,0,1,2,0,0,2,0,LOC106582727,CD9 antigen-like
+106583802,3,1,0,1,2,0,0,2,0,ippk,"inositol 1,3,4,5,6-pentakisphosphate 2-kinase, transcript variant X1"
+106578155,4,2,2,0,2,0,0,2,0,neuropeptide Y receptor type 2-like,neuropeptide Y receptor type 2-like
+106585096,4,2,2,0,2,0,0,2,0,LOC106585096,"T-box transcription factor TBX1-like, transcript variant X1"
+106572645,4,2,1,1,2,0,0,2,0,LOC106572645,"potassium voltage-gated channel subfamily G member 1-like, transcript variant X2"
+106567436,4,2,0,2,2,0,0,2,0,ubtd2,ubiquitin domain containing 2
+106582928,4,2,0,2,2,0,0,2,0,LOC106582928,"GATA-binding factor 2-like, transcript variant X2"
+106583664,4,2,0,2,2,0,0,2,0,LOC106583664,"eyes absent homolog 2-like, transcript variant X1"
+106587200,4,2,0,2,2,0,0,2,0,LOC106587200,"polypeptide N-acetylgalactosaminyltransferase 18, transcript variant X4"
+106573787,5,3,1,2,2,0,0,2,0,LOC106573787,fatty acid 2-hydroxylase-like
+106603511,5,3,0,3,2,0,0,2,0,active breakpoint cluster region-related protein-like,active breakpoint cluster region-related protein-like
+106561177,5,3,0,3,2,0,0,2,0,LOC106561177,"semaphorin-4B-like, transcript variant X2"
+106568787,5,3,0,3,2,0,0,2,0,LOC106568787,protein sidekick-2-like
+106568634,6,4,4,0,2,0,0,2,0,fam134b,"family with sequence similarity 134, member B, transcript variant X1"
+106577504,6,4,0,4,2,0,0,2,0,LOC106577504,"ankyrin-2-like, transcript variant X11"
+106583614,7,5,1,4,2,0,0,2,0,LOC106583614,histone deacetylase 7-like
+106603277,8,6,0,6,2,0,0,2,0,LOC106603277,"seizure protein 6-like, transcript variant X3"
+106602935,10,8,0,8,2,0,0,2,0,LOC106602935,"calcium/calmodulin-dependent protein kinase type II subunit alpha, transcript variant X2"
+106567659,10,8,0,8,2,0,0,2,0,LOC106567659,opioid-binding protein/cell adhesion molecule homolog
+106567730,10,8,0,8,2,0,0,2,0,LOC106567730,"cell adhesion molecule 1-like, transcript variant X2"
+106581635,12,10,0,10,2,0,0,2,0,dach1,"dachshund family transcription factor 1, transcript variant X2"
+106598828,3,0,0,0,2,0,0,2,1,trmt5,"tRNA methyltransferase 5, transcript variant X1"
+106608321,3,0,0,0,2,0,0,2,1,LOC106608321,translation initiation factor eIF-2B subunit delta-like
+100196524,3,0,0,0,2,0,0,2,1,LOC100196524,glucose-6-phosphate isomerase
+106563008,3,0,0,0,2,0,0,2,1,LOC106563008,"SEC14-like protein 3, transcript variant X2"
+106581833,3,0,0,0,2,0,0,2,1,LOC106581833,protein FEV
+106560463,4,1,0,1,2,0,0,2,1,pde4b,"phosphodiesterase 4B, cAMP-specific, transcript variant X1"
+106588503,7,4,1,3,2,0,0,2,1,LOC106588503,"sterile alpha motif domain-containing protein 12-like, transcript variant X2"
+106605225,4,0,0,0,2,0,0,2,2,LOC106605225,"cytochrome c oxidase subunit 7A-related protein, mitochondrial"
+106561802,4,0,0,0,2,0,0,2,2,anoctamin-3-like,anoctamin-3-like
+106585035,4,0,0,0,2,0,0,2,2,LOC106585035,"protein unc-45 homolog B-like, transcript variant X1"
