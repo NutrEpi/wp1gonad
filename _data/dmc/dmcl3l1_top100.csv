@@ -1,0 +1,101 @@
+Chromosome,Pos,Region,Mdiff,Q-value,Gene ID,Gene symbol,Gene name
+NC_027300.1,155927006,Intron,70.95,3.4E-265,106572494,LOC106572494,putative protein TPRXL
+NC_027300.1,38863961,Exon,45.12,1.2E-180,106602554,LOC106602554,"alpha-(1,6)-fucosyltransferase-like"
+NC_027303.1,15219927,P1K,66.75,1.3E-178,106602610,LOC106602610,neurotrophin receptor-interacting factor homolog
+NC_027317.1,7880634,Intron,53.95,2.2E-159,106576788,LOC106576788,DNA nucleotidylexotransferase-like
+NC_027312.1,100912810,Flanks,-56.1,1.4E-156,106568511,LOC106568511,tubulin alpha-8 chain-like
+NC_027309.1,66317449,P5K,47.05,6.3E-135,106561079,LOC106561079,40S ribosomal protein S13
+NC_027304.1,50364764,Intron,59.67,2.8E-113,106605176,LOC106605176,uncharacterized protein YBL113C-like
+NC_027310.1,66413922,Flanks,60.1,1.0E-110,106563270,LOC106563270,pappalysin-1-like
+NC_027304.1,56846234,Intron,54.01,4.2E-104,106605327,LOC106605327,leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1
+NC_027309.1,108142317,P1K,-45.92,1.1E-102,106561665,LOC106561665,ankyrin repeat and SOCS box protein 13-like
+NC_027308.1,77618677,Flanks,87.5,1.2E-100,106612103,LOC106612103,inositol-trisphosphate 3-kinase B-like
+NC_027300.1,115441574,Flanks,-53.19,3.7E-91,106562720,pi4ka,phosphatidylinositol 4-kinase alpha
+NC_027313.1,75625102,Intron,31.1,1.1E-88,106570418,LOC106570418,protein tyrosine phosphatase type IVA 3
+NC_027325.1,17578712,Intron,47.81,6.6E-88,106587217,LOC106587217,neuroplastin-like
+NC_027304.1,36934005,Intron,74.66,2.7E-87,106604848,LOC106604848,platelet-derived growth factor receptor beta-like
+NC_027308.1,77618685,Flanks,80.0,1.9E-85,106612103,LOC106612103,inositol-trisphosphate 3-kinase B-like
+NC_027317.1,24227413,Intron,48.38,2.2E-84,106577121,cfap36,cilia and flagella associated protein 36
+NC_027310.1,66413881,Flanks,59.15,6.9E-83,106563270,LOC106563270,pappalysin-1-like
+NC_027311.1,51534880,P5K,-32.32,1.1E-81,106565378,LOC106565378,golgin subfamily A member 7-like
+NC_027311.1,74229360,Flanks,43.27,3.4E-81,106565723,LOC106565723,bactericidal permeability-increasing protein-like
+NC_027304.1,58774724,Intron,-32.83,1.1E-78,106605470,LOC106605470,calbindin-like
+NC_027300.1,115441567,Flanks,-47.3,1.3E-78,106562720,pi4ka,phosphatidylinositol 4-kinase alpha
+NC_027319.1,25632575,Intron,46.98,5.0E-78,106580375,LOC106580375,tetratricopeptide repeat protein 28-like
+NC_027311.1,10575883,Flanks,62.12,6.0E-75,106564399,LOC106564399,zinc finger protein 883-like
+NC_027311.1,38257761,P1K,-67.07,1.6E-74,106565280,LOC106565280,E3 ubiquitin-protein ligase Itchy-like
+NC_027315.1,34254628,P5K,-39.93,2.7E-74,106573665,spire2,spire type actin nucleation factor 2
+NC_027321.1,47272500,Intron,68.3,2.8E-74,106583608,LOC106583608,tensin-2-like
+NC_027304.1,41058309,Exon,-49.47,4.8E-73,106604954,LOC106604954,palladin-like
+NC_027309.1,66317427,P5K,25.37,1.5E-72,106561079,LOC106561079,40S ribosomal protein S13
+NC_027311.1,68410363,P5K,-65.56,2.8E-71,106565830,tmf1,TATA element modulatory factor 1
+NC_027303.1,15219911,P1K,41.9,4.8E-70,106602610,LOC106602610,neurotrophin receptor-interacting factor homolog
+NC_027319.1,31821491,Intron,-35.21,1.0E-68,106580457,LOC106580457,autism susceptibility gene 2 protein-like
+NC_027319.1,42016176,Flanks,73.0,3.1E-68,106580649,LOC106580649,60S ribosomal protein L35a
+NC_027315.1,41302501,Intron,52.82,3.5E-68,100380421,Receptor-type tyrosine-protein phosphatase-like N,Receptor-type tyrosine-protein phosphatase-like N
+NC_027300.1,104709757,P5K,-44.28,8.0E-67,106560516,exocyst complex component 6B-like,exocyst complex component 6B-like
+NC_027319.1,58213766,P1K,41.97,1.4E-66,106581187,LOC106581187,transcriptional adapter 2-alpha-like
+NC_027301.1,44490526,Intron,33.24,2.1E-65,106588327,LOC106588327,E3 ubiquitin-protein ligase SMURF2-like
+NC_027321.1,31989927,P1K,53.56,2.4E-65,100195379,dtx3l,deltex-3-like
+NC_027319.1,19287279,Intron,-65.36,3.1E-65,106579947,LOC106579947,translational activator GCN1-like
+NC_027318.1,54326090,Intron,80.25,1.2E-64,106579195,LOC106579195,ankyrin repeat and fibronectin type-III domain-containing protein 1-like
+NC_027312.1,96628422,Intron,72.07,2.0E-64,106568430,LOC106568430,putative uncharacterized protein DDB_G0286901
+NC_027302.1,39942432,Flanks,-35.6,8.3E-63,106600477,LOC106600477,supervillin-like
+NC_027303.1,57013294,Intron,60.54,1.9E-62,106603640,LOC106603640,neural cell adhesion molecule 1-like
+NC_027316.1,12740973,Flanks,33.88,2.0E-62,106575311,LOC106575311,heparan-sulfate 6-O-sulfotransferase 3-like
+NC_027315.1,34254665,P5K,-35.41,3.6E-62,106573665,spire2,spire type actin nucleation factor 2
+NC_027319.1,25632590,Intron,43.95,9.7E-62,106580375,LOC106580375,tetratricopeptide repeat protein 28-like
+NC_027304.1,59091178,Flanks,82.0,3.2E-61,100196743,cr3l4,cAMP-responsive element-binding protein 3-like protein 4
+NC_027308.1,105743966,Intron,-40.34,3.3E-61,106612604,LOC106612604,sodium/calcium exchanger 2-like
+NC_027307.1,3454809,Flanks,-26.96,1.1E-59,106609958,LOC106609958,probable G-protein coupled receptor 83
+NC_027300.1,142340138,Intron,73.71,2.0E-59,106569324,LOC106569324,zinc finger FYVE domain-containing protein 16-like
+NC_027302.1,22786654,Intron,76.69,5.9E-57,106599387,LOC106599387,"beta-1,4-galactosyltransferase 2-like"
+NC_027312.1,96628390,Exon,66.39,1.2E-56,106568430,LOC106568430,putative uncharacterized protein DDB_G0286901
+NW_012347989.1,7232,Intron,-64.84,2.2E-56,106592313,LOC106592313,"NACHT, LRR and PYD domains-containing protein 12-like"
+NC_027328.1,5132367,Intron,47.19,9.5E-56,106590053,LOC106590053,cadherin-12-like
+NC_027311.1,20641211,Intron,-67.61,1.2E-55,106564665,LOC106564665,septin-9-like
+NC_027311.1,45868438,Intron,70.86,4.5E-54,106565124,LOC106565124,low-density lipoprotein receptor class A domain-containing protein 2-like
+NC_027315.1,2589058,Flanks,-29.52,6.5E-54,106573040,LOC106573040,filamin-C-like
+NC_027315.1,32884004,Intron,69.02,6.5E-54,106573702,LOC106573702,cadherin-13-like
+NW_012352364.1,5182,Flanks,-33.36,6.7E-54,106594295,LOC106594295,uncharacterized LOC106594295
+NC_027312.1,26378988,Flanks,-26.97,7.2E-54,106566833,properdin-like,properdin-like
+NC_027309.1,89049804,Intron,-70.29,1.1E-53,106561324,LOC106561324,serine/threonine-protein kinase WNK1-like
+NC_027318.1,69767272,Intron,-56.68,2.1E-53,106579565,LOC106579565,dipeptidyl aminopeptidase-like protein 6
+NC_027304.1,1005370,Intron,-65.59,4.3E-53,106604099,transcriptional regulator ATRX-like,transcriptional regulator ATRX-like
+NC_027301.1,14232402,P5K,93.44,5.2E-53,100195786,nca11,Neural cell adhesion molecule 1-A
+NC_027314.1,40884453,Intron,-42.25,6.2E-53,106571690,itpk1,inositol-tetrakisphosphate 1-kinase
+NC_027313.1,8771091,Intron,38.39,1.9E-52,106568720,LOC106568720,tyrosine-protein kinase JAK1-like
+NC_027311.1,38257776,P5K,-60.0,5.4E-52,106565280,LOC106565280,E3 ubiquitin-protein ligase Itchy-like
+NC_027314.1,2843048,Intron,-39.21,7.8E-52,106570851,LOC106570851,protein unc-13 homolog B-like
+NC_027308.1,74739379,P5K,40.56,1.1E-51,106611966,immt,inner membrane mitochondrial protein
+NC_027312.1,40690695,Intron,-36.32,1.2E-51,100380349,mare1,Microtubule-associated protein RP/EB family member 1
+NC_027308.1,4330348,Flanks,-44.7,1.6E-51,106610614,ero1a,endoplasmic reticulum oxidoreductase 1 alpha
+NC_027318.1,46410788,Intron,52.62,5.5E-51,106578973,LOC106578973,serine-rich coiled-coil domain-containing protein 2-like
+NC_027310.1,78335301,Exon,-77.67,1.4E-50,106563588,LOC106563588,diamine acetyltransferase 1-like
+NC_027319.1,42016205,Flanks,65.31,2.3E-50,106580649,LOC106580649,60S ribosomal protein L35a
+NC_027315.1,30312865,Intron,37.72,2.5E-50,106573747,edc4,enhancer of mRNA decapping 4
+NC_027319.1,8583876,Intron,57.84,2.5E-50,106580147,kiaa0825,KIAA0825 ortholog
+NC_027305.1,47354236,Flanks,54.56,2.7E-50,100196700,tagap,T-cell activation GTPase activating protein
+NC_027316.1,38520204,Flanks,-45.78,3.2E-50,106576110,LOC106576110,neural Wiskott-Aldrich syndrome protein-like
+NC_027326.1,22455130,Flanks,-72.99,4.0E-50,106588785,LOC106588785,growth factor receptor-bound protein 10-like
+NC_027301.1,14232396,P5K,90.1,4.0E-50,100195786,nca11,Neural cell adhesion molecule 1-A
+NC_027300.1,129405278,P5K,-32.86,1.8E-49,106566689,LOC106566689,MAM domain-containing protein 2-like
+NC_027305.1,11591081,Intron,47.09,1.9E-49,106606491,"sarcalumenin-like, transcript variant X2",sarcalumenin-like
+NC_027314.1,93456478,Flanks,-44.31,2.0E-49,106572754,LOC106572754,"serine--tRNA ligase, cytoplasmic-like"
+NC_027317.1,6231408,Intron,40.66,2.1E-49,106576922,LOC106576922,pterin-4-alpha-carbinolamine dehydratase-like
+NC_027303.1,34518358,Intron,48.12,5.8E-49,106603037,LOC106603037,bromodomain-containing protein 8-like
+NC_027319.1,18338285,Intron,-25.3,9.5E-49,106579979,LOC106579979,serine/threonine-protein phosphatase 6 catalytic subunit-like
+NC_027306.1,2141528,Flanks,-57.81,1.4E-48,106608452,LOC106608452,zinc finger protein 568-like
+NC_027308.1,2322400,Intron,-47.73,2.8E-48,106610598,LOC106610598,ALK tyrosine kinase receptor-like
+NC_027304.1,52250720,Flanks,40.61,1.0E-47,106605137,LOC106605137,gap junction alpha-9 protein-like
+NC_027319.1,43618220,Intron,34.77,1.4E-47,106580682,LOC106580682,dedicator of cytokinesis protein 10-like
+NC_027305.1,75626983,Intron,74.58,1.5E-47,106608170,LOC106608170,"actin, alpha cardiac muscle 1-like"
+NC_027308.1,59178131,Flanks,82.64,3.3E-47,106611628,LOC106611628,protocadherin Fat 4-like
+NC_027302.1,52393258,Intron,-46.08,5.2E-47,106600669,LOC106600669,acid-sensing ion channel 2-like
+NC_027303.1,33722357,Intron,-72.44,5.2E-47,106602980,LOC106602980,complement factor B-like
+NC_027317.1,68588360,Exon,59.56,6.4E-47,106578155,neuropeptide Y receptor type 2-like,neuropeptide Y receptor type 2-like
+NC_027324.1,12079191,Flanks,-49.33,7.5E-47,100195207,cg057,CG057 protein
+NC_027322.1,12682158,Exon,26.06,1.0E-46,106584076,LOC106584076,forkhead box protein F2-like
+NC_027300.1,117578545,Exon,82.19,1.2E-46,106563547,LOC106563547,"rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit beta-like"
+NW_012350267.1,5934,Intron,-56.22,1.2E-46,106593487,LOC106593487,N-acylneuraminate cytidylyltransferase-like
+NC_027319.1,25523079,Intron,26.29,2.0E-46,106580375,LOC106580375,tetratricopeptide repeat protein 28-like
