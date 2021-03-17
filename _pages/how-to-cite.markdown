@@ -1,5 +1,5 @@
 ---
-permalink: /how-to-site/
+permalink: /how-to-cite/
 layout: single
 sidebar:
   nav: "docs"

@@ -117,10 +117,14 @@ See [What are DMCs?]({{ site.baseurl }}/docs/differentially-methylated-cpg-site/
 
 *DMC: differentially methylated CpG site*
 - [What are DMCs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
-- [DMCs L2:L1]({{ site.baseurl }}/docs/dmc-l2l1/){: .btn}
-- [DMCs L3:L1]({{ site.baseurl }}/docs/dmc-l3l1/){: .btn}
+- [DMCs L2:L1 (top 100)]({{ site.baseurl }}/docs/dmc-l2l1-top100/){: .btn}
+- [DMCs L3:L1 (top 100)]({{ site.baseurl }}/docs/dmc-l3l1-top100/){: .btn}
+- [DMCs L2:L1 (full list)]({{ site.baseurl }}/docs/dmc-l2l1-full/){: .btn}
+- [DMCs L3:L1 (full list)]({{ site.baseurl }}/docs/dmc-l3l1-full/){: .btn}
 
 *DMG: differentially methylated gene*
 - [What are DMGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
-- [DMGs L2:L1]({{ site.baseurl }}/docs/dmg-l2l1/){: .btn}
-- [DMGs L3:L1]({{ site.baseurl }}/docs/dmg-l3l1/){: .btn}
+- [DMGs L2:L1 (promoter)]({{ site.baseurl }}/docs/dmg-l2l1-multi-dmcs-promoter/){: .btn}
+- [DMGs L3:L1 (promoter)]({{ site.baseurl }}/docs/dmg-l3l1-multi-dmcs-promoter/){: .btn}
+- [DMGs L2:L1 (full list)]({{ site.baseurl }}/docs/dmg-l2l1-full/){: .btn}
+- [DMGs L3:L1 (full list)]({{ site.baseurl }}/docs/dmg-l3l1-full/){: .btn}
