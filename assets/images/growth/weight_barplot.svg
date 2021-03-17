@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 180.00 180.00"
+   version="1.1"
+   id="svg279"
+   sodipodi:docname="weight_barplot.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata283">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1808"
+     inkscape:window-height="932"
+     id="namedview281"
+     showgrid="false"
+     inkscape:zoom="4.3300781"
+     inkscape:cx="61.968669"
+     inkscape:cy="90"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg279" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+  </defs>
+  <defs
+     id="defs13">
+    <clipPath
+       id="cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw">
+      <rect
+         x="33.13"
+         y="40.10"
+         width="55.70"
+         height="121.33"
+         id="rect10" />
+    </clipPath>
+  </defs>
+  <rect
+     x="33.13"
+     y="40.10"
+     width="55.70"
+     height="121.33"
+     style="stroke-width: 1.07; stroke: none; fill: #FFFFFF;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="rect15" />
+  <polyline
+     points="33.13,142.95 88.83,142.95 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline17" />
+  <polyline
+     points="33.13,116.99 88.83,116.99 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline19" />
+  <polyline
+     points="33.13,91.04 88.83,91.04 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline21" />
+  <polyline
+     points="33.13,65.08 88.83,65.08 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline23" />
+  <polyline
+     points="33.13,155.92 88.83,155.92 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline25" />
+  <polyline
+     points="33.13,129.97 88.83,129.97 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline27" />
+  <polyline
+     points="33.13,104.02 88.83,104.02 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline29" />
+  <polyline
+     points="33.13,78.06 88.83,78.06 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline31" />
+  <polyline
+     points="33.13,52.11 88.83,52.11 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline33" />
+  <polyline
+     points="43.57,161.44 43.57,40.10 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline35" />
+  <polyline
+     points="60.98,161.44 60.98,40.10 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline37" />
+  <polyline
+     points="78.39,161.44 78.39,40.10 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline39" />
+  <rect
+     x="35.74"
+     y="67.68"
+     width="15.67"
+     height="88.24"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="rect41" />
+  <rect
+     x="53.15"
+     y="55.48"
+     width="15.67"
+     height="100.44"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="rect43" />
+  <rect
+     x="70.55"
+     y="60.15"
+     width="15.67"
+     height="95.77"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="rect45" />
+  <polyline
+     points="40.09,67.03 47.05,67.03 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline47" />
+  <polyline
+     points="43.57,67.03 43.57,68.33 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline49" />
+  <polyline
+     points="40.09,68.33 47.05,68.33 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline51" />
+  <polyline
+     points="57.50,54.83 64.46,54.83 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline53" />
+  <polyline
+     points="60.98,54.83 60.98,56.13 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline55" />
+  <polyline
+     points="57.50,56.13 64.46,56.13 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline57" />
+  <polyline
+     points="74.90,59.12 81.87,59.12 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline59" />
+  <polyline
+     points="78.39,59.12 78.39,61.19 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline61" />
+  <polyline
+     points="74.90,61.19 81.87,61.19 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="polyline63" />
+  <text
+     id="text65"
+     style="font-size:10.66666667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="49.57"
+     x="40.810001">c</text>
+  <text
+     id="text69"
+     style="font-size:10.66666667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="49.57"
+     x="57.91">a</text>
+  <text
+     id="text73"
+     style="font-size:10.66666667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="49.57"
+     x="75.32">b</text>
+  <rect
+     x="33.13"
+     y="40.10"
+     width="55.70"
+     height="121.33"
+     style="stroke-width: 1.07; stroke: #333333;"
+     clip-path="url(#cpMzMuMTN8ODguODN8MTYxLjQ0fDQwLjEw)"
+     id="rect77" />
+  <defs
+     id="defs82">
+    <clipPath
+       id="cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="180.00"
+         height="180.00"
+         id="rect79" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs87">
+    <clipPath
+       id="cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=">
+      <rect
+         x="118.82"
+         y="40.10"
+         width="55.70"
+         height="121.33"
+         id="rect84" />
+    </clipPath>
+  </defs>
+  <rect
+     x="118.82"
+     y="40.10"
+     width="55.70"
+     height="121.33"
+     style="stroke-width: 1.07; stroke: none; fill: #FFFFFF;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="rect89" />
+  <polyline
+     points="118.82,135.11 174.52,135.11 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline91" />
+  <polyline
+     points="118.82,93.49 174.52,93.49 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline93" />
+  <polyline
+     points="118.82,51.86 174.52,51.86 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline95" />
+  <polyline
+     points="118.82,155.92 174.52,155.92 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline97" />
+  <polyline
+     points="118.82,114.30 174.52,114.30 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline99" />
+  <polyline
+     points="118.82,72.67 174.52,72.67 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline101" />
+  <polyline
+     points="129.26,161.44 129.26,40.10 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline103" />
+  <polyline
+     points="146.67,161.44 146.67,40.10 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline105" />
+  <polyline
+     points="164.08,161.44 164.08,40.10 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline107" />
+  <rect
+     x="121.43"
+     y="67.39"
+     width="15.67"
+     height="88.53"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="rect109" />
+  <rect
+     x="138.84"
+     y="56.82"
+     width="15.67"
+     height="99.11"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="rect111" />
+  <rect
+     x="156.24"
+     y="56.65"
+     width="15.67"
+     height="99.27"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7F7F7F;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="rect113" />
+  <polyline
+     points="125.78,64.93 132.74,64.93 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline115" />
+  <polyline
+     points="129.26,64.93 129.26,69.84 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline117" />
+  <polyline
+     points="125.78,69.84 132.74,69.84 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline119" />
+  <polyline
+     points="143.19,53.40 150.15,53.40 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline121" />
+  <polyline
+     points="146.67,53.40 146.67,60.23 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline123" />
+  <polyline
+     points="143.19,60.23 150.15,60.23 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline125" />
+  <polyline
+     points="160.59,55.11 167.56,55.11 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline127" />
+  <polyline
+     points="164.08,55.11 164.08,58.19 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline129" />
+  <polyline
+     points="160.59,58.19 167.56,58.19 "
+     style="stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.90; stroke-linecap: butt;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="polyline131" />
+  <text
+     id="text133"
+     style="font-size:10.66666667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="49.57"
+     x="126.19">b</text>
+  <text
+     id="text137"
+     style="font-size:10.66666667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="49.57"
+     x="143.60001">a</text>
+  <text
+     id="text141"
+     style="font-size:10.66666667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="49.57"
+     x="161.00999">a</text>
+  <rect
+     x="118.82"
+     y="40.10"
+     width="55.70"
+     height="121.33"
+     style="stroke-width: 1.07; stroke: #333333;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41MnwxNjEuNDR8NDAuMTA=)"
+     id="rect145" />
+  <defs
+     id="defs151">
+    <clipPath
+       id="clipPath149">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="180.00"
+         height="180.00"
+         id="rect147" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs156">
+    <clipPath
+       id="cpMzMuMTN8ODguODN8NDAuMTB8MjMuMTk=">
+      <rect
+         x="33.13"
+         y="23.19"
+         width="55.70"
+         height="16.92"
+         id="rect153" />
+    </clipPath>
+  </defs>
+  <rect
+     x="33.13"
+     y="23.19"
+     width="55.70"
+     height="16.92"
+     style="stroke-width: 1.07; stroke: #333333; fill: #D9D9D9;"
+     clip-path="url(#cpMzMuMTN8ODguODN8NDAuMTB8MjMuMTk=)"
+     id="rect158" />
+  <text
+     id="text160"
+     style="font-size:10.66666667px;font-family:Helvetica;fill:#1a1a1a;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="34.790001"
+     x="49.73">Smolt</text>
+  <defs
+     id="defs168">
+    <clipPath
+       id="clipPath166">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="180.00"
+         height="180.00"
+         id="rect164" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs173">
+    <clipPath
+       id="cpMTE4LjgyfDE3NC41Mnw0MC4xMHwyMy4xOQ==">
+      <rect
+         x="118.82"
+         y="23.19"
+         width="55.70"
+         height="16.92"
+         id="rect170" />
+    </clipPath>
+  </defs>
+  <rect
+     x="118.82"
+     y="23.19"
+     width="55.70"
+     height="16.92"
+     style="stroke-width: 1.07; stroke: #333333; fill: #D9D9D9;"
+     clip-path="url(#cpMTE4LjgyfDE3NC41Mnw0MC4xMHwyMy4xOQ==)"
+     id="rect175" />
+  <text
+     id="text177"
+     style="font-size:10.66666667px;font-family:Helvetica;fill:#1a1a1a;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="34.790001"
+     x="137.13">Final</text>
+  <defs
+     id="defs185">
+    <clipPath
+       id="clipPath183">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="180.00"
+         height="180.00"
+         id="rect181" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="43.57,164.18 43.57,161.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline187" />
+  <polyline
+     points="60.98,164.18 60.98,161.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline189" />
+  <polyline
+     points="78.39,164.18 78.39,161.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline191" />
+  <text
+     id="text193"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="172.67"
+     x="38.68">L1</text>
+  <text
+     id="text197"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="172.67"
+     x="56.09">L2</text>
+  <text
+     id="text201"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="172.67"
+     x="73.489998">L3</text>
+  <polyline
+     points="129.26,164.18 129.26,161.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline205" />
+  <polyline
+     points="146.67,164.18 146.67,161.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline207" />
+  <polyline
+     points="164.08,164.18 164.08,161.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline209" />
+  <text
+     id="text211"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="172.67"
+     x="124.37">L1</text>
+  <text
+     id="text215"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="172.67"
+     x="141.78">L2</text>
+  <text
+     id="text219"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="172.67"
+     x="159.17999">L3</text>
+  <text
+     id="text223"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="159.07001"
+     x="108.99">0</text>
+  <text
+     id="text227"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="117.45"
+     x="94.309998">1000</text>
+  <text
+     id="text231"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="75.82"
+     x="94.309998">2000</text>
+  <polyline
+     points="116.08,155.92 118.82,155.92 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline235" />
+  <polyline
+     points="116.08,114.30 118.82,114.30 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline237" />
+  <polyline
+     points="116.08,72.67 118.82,72.67 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline239" />
+  <text
+     id="text241"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="159.07001"
+     x="23.299999">0</text>
+  <text
+     id="text245"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="133.12"
+     x="18.41">20</text>
+  <text
+     id="text249"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="107.16"
+     x="18.41">40</text>
+  <text
+     id="text253"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="81.209999"
+     x="18.41">60</text>
+  <text
+     id="text257"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#4d4d4d;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="55.259998"
+     x="18.41">80</text>
+  <polyline
+     points="30.39,155.92 33.13,155.92 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline261" />
+  <polyline
+     points="30.39,129.97 33.13,129.97 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline263" />
+  <polyline
+     points="30.39,104.02 33.13,104.02 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline265" />
+  <polyline
+     points="30.39,78.06 33.13,78.06 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline267" />
+  <polyline
+     points="30.39,52.11 33.13,52.11 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHwxODAuMDB8MTgwLjAwfDAuMDA=)"
+     id="polyline269" />
+  <text
+     id="text271"
+     style="font-size:10.66666667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     transform="rotate(-90)"
+     x="-126.14"
+     y="13.35">Weight (g)</text>
+  <text
+     id="text275"
+     style="font-size:13.33333333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     y="14.93"
+     x="33.130001">Body weight</text>
+</svg>
