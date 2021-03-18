@@ -22,6 +22,11 @@ Our analyses were based on the male gonad samples of Atlantic salmon fed with th
 ### Experimental design
 We collected male gonad samples at the final harvest stage for gene expression and DNA methylation analysis.
 
+{% include figure
+  image_path="/assets/images/growth/experimental_design.svg"
+  alt="Experimental design"
+  caption="Three groups of Atlantic salmon were fed with different levels of micronutrients through the trial." %}
+
 ### Experimental feed
 Through the trial, Atlantic salmon in triplicate groups - L1, L2, L3 - were fed with graded levels of micronutrient supplements, formulated with nutrition package (NP).
 
@@ -34,6 +39,9 @@ Through the trial, Atlantic salmon in triplicate groups - L1, L2, L3 - were fed 
 <div class="notice">
   {{ feed | markdownify }}
 </div>
+
+{% include table.html id='table_trial_feed' data=site.data.growth.feed
+   caption='Added micronutrient concentrations (mg/kg) within the NP.' %}
 
 ### Growth performance
 
