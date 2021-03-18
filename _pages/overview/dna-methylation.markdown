@@ -5,8 +5,8 @@ sidebar:
   nav: "docs"
 toc: true
 toc_sticky: true
-comments: true
-share: true
+#comments: true
+#share: true
 title:  "Summary of DNA methylation analysis"
 categories: summary dna-methylation dmc dmg
 ---
