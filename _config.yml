@@ -81,10 +81,10 @@ search                   : #true # true, false (default)
 search_full_content      : #true # true, false (default)
 search_provider          : #algolia # lunr (default), algolia, google
 algolia:
-  application_id         : #ITNPHJ0ES5 # YOUR_APPLICATION_ID
-  index_name             : #NutrEpiWp1Gonad # YOUR_INDEX_NAME
-  search_only_api_key    : #3903570464b8cf122ad46fcd2e63091b # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : #true # true (default), false
+  application_id         : ITNPHJ0ES5 # YOUR_APPLICATION_ID
+  index_name             : NutrEpiWp1Gonad # YOUR_INDEX_NAME
+  search_only_api_key    : 3903570464b8cf122ad46fcd2e63091b # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
