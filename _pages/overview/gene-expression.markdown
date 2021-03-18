@@ -5,8 +5,8 @@ sidebar:
   nav: "docs"
 toc: true
 toc_sticky: true
-#comments: true
-#share: true
+comments: true
+share: true
 title:  "Summary of gene expression analysis"
 categories: summary gene-expression deg
 ---
