@@ -1,0 +1,35 @@
+<table id="{{ include.id }}" class="display">
+  {% for row in include.data %}
+    {% if forloop.first %}
+    <thead> <tr>
+      {% for pair in row %}
+        {% if pair[0] == include.nowrap %}
+          <th nowrap="nowrap">{{ pair[0] }}</th>
+        {% else %}
+          <th>{{ pair[0] }}</th>
+        {% endif %}
+      {% endfor %}
+    </tr> </thead>
+    <tbody>
+    {% endif %}
+
+    <tr>
+    {% for pair in row %}
+      <td>{{ pair[1] }}</td>
+    {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<script>
+const dataTable = new DataTable("#{{ include.id }}", {
+    perPage: {{ include.nrow }},
+    searchable: false,
+    footer: false,
+    layout: {
+      top: "",
+      bottom: ""
+    },
+});
+</script>

@@ -1,0 +1,64 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "How to cite"
+    url: /how-to-cite/
+  - title: "Contact"
+    url: /contact/
+  - title: Terms and Privacy Policy
+    url: /terms/
+
+docs:
+  - title: Overview
+    children:
+      - title: "Project summary"
+        url: /docs/project-summary/
+      - title: "Gene expression"
+        url: /docs/gene-expression/
+      - title: "DNA methylation"
+        url: /docs/dna-methylation/
+
+  - title: DEG
+    children:
+      - title: "What are DEGs?"
+        url: /docs/differentially-expressed-gene/
+      - title: "DEGs L2:L1"
+        url: /docs/deg-l2l1/
+      - title: "DEGs L3:L1"
+        url: /docs/deg-l3l1/
+
+  - title: DMC
+    children:
+      - title: "What are DMCs?"
+        url: /docs/differentially-methylated-cpg-site/
+      - title: "DMCs L2:L1 (top 100)"
+        url: /docs/dmc-l2l1-top100/
+      - title: "DMCs L3:L1 (top 100)"
+        url: /docs/dmc-l3l1-top100/
+      - title: "DMCs L2:L1 (full list)"
+        url: /docs/dmc-l2l1-full/
+      - title: "DMCs L3:L1 (full list)"
+        url: /docs/dmc-l3l1-full/
+
+  - title: DMG
+    children:
+      - title: "What are DMGs?"
+        url: /docs/differentially-methylated-gene/
+      - title: "DMGs L2:L1 (promoter)"
+        url: /docs/dmg-l2l1-multi-dmcs-promoter/
+      - title: "DMGs L3:L1 (promoter)"
+        url: /docs/dmg-l3l1-multi-dmcs-promoter/
+      - title: "DMGs L2:L1 (full list)"
+        url: /docs/dmg-l2l1-full/
+      - title: "DMGs L3:L1 (full list)"
+        url: /docs/dmg-l3l1-full/
+
+  - title: Resources
+    children:
+      - title: "Links"
+        url: /docs/links/
+      - title: "Downloads"
+        url: /docs/downloads/
+      - title: "Publications"
+        url: /docs/publications/

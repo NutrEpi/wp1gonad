@@ -1,0 +1,19 @@
+<script>
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+</script>
+
+<a name="button" class="btn btn--inverse" onclick="topFunction()">Top</a>
+<a name="button" class="btn btn--inverse" onclick="window.history.back()">Back</a>
+<a href=
+  "{{ include.previous | relative_url }}"
+  name="button" class="btn btn--primary">
+  Previous
+</a>
+<a href=
+  "{{ include.next | relative_url }}"
+  name="button" class="btn btn--primary">
+  Next
+</a>

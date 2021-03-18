@@ -1,0 +1,28 @@
+<table id="{{ include.id }}">
+  <caption>{{ include.caption }}</caption>
+  {% for row in include.data %}
+    {% if forloop.first %}
+    <thead> <tr>
+      {% for pair in row %}
+        {% if pair[0] == include.nowrap %}
+          <th nowrap="nowrap">{{ pair[0] }}</th>
+        {% else %}
+          <th>{{ pair[0] }}</th>
+        {% endif %}
+      {% endfor %}
+    </tr> </thead>
+    <tbody>
+    {% endif %}
+
+    <tr>
+    {% for pair in row %}
+      {% if pair[0] == include.nowrap %}
+        <td nowrap="nowrap">{{ pair[1] }}</td>
+      {% else %}
+        <td>{{ pair[1] }}</td>
+      {% endif %}
+    {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
