@@ -3,8 +3,8 @@ permalink: /how-to-cite/
 layout: single
 sidebar:
   nav: "docs"
-#comments: true
-#share: true
+comments: true
+share: true
 title:  "How to cite"
 ---
 
