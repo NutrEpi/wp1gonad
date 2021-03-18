@@ -5,8 +5,8 @@ sidebar:
   nav: "docs"
 toc: true
 toc_sticky: true
-comments: true
-share: true  
+#comments: true
+#share: true  
 title:  "What are DMGs?"
 categories: summary dna-methylation dmg
 ---

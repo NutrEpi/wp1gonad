@@ -3,8 +3,8 @@ permalink: /
 layout: single
 sidebar:
   nav: "docs"
-comments: true
-share: true
+#comments: true
+#share: true
 title:  "NutrEpi WP1 Gonad"
 ---
 
