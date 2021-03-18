@@ -20,6 +20,11 @@ We identified 9774 DMGs for L2:L1. We defined DMGs as the genes that required th
 - [What are DMGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
 - [DMGs L3:L1]({{ site.baseurl }}/docs/dmg-l3l1/){: .btn}
 
+## List of DMGs with gene symbols and gene names
+- [DMGs L3:L1 (promoter)]({{ site.baseurl }}/docs/dmg-l3l1-multi-dmcs-promoter/){: .btn}
+- [DMGs L2:L1 (full list)]({{ site.baseurl }}/docs/dmg-l2l1-full/){: .btn}
+- [DMGs L3:L1 (full list)]({{ site.baseurl }}/docs/dmg-l3l1-full/){: .btn}
+
 ## Relevant Excel files
 [Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
 
@@ -34,7 +39,7 @@ We identified 9774 DMGs for L2:L1. We defined DMGs as the genes that required th
 ## List of the DMGs between L1 and L2 diets
 
 <p class="notice--success">
-<strong>NOTE</strong>: the list contains the DMGs that have at least two DMCs in their promoter region.
+<strong>NOTE</strong>: The list contains the DMGs that have at least two DMCs in their promoter region.
 </p>
 
 {% include datatable.html id=page.datatable.id
