@@ -1,5 +1,5 @@
 # NutrEpi WP1 Gonad <img src="{{site.baseurl}}/assets/images/logo/logo.png" align="right" alt="" width="100" />
-[![Travis](https://travis-ci.org/NutrEpi/wp1liver.svg?branch=gh-pages)](https://travis-ci.org/NutrEpi/wp1gonad)
+[![Travis](https://travis-ci.org/NutrEpi/wp1gonad.svg?branch=gh-pages)](https://travis-ci.org/NutrEpi/wp1gonad)
 
 An easy-to-access online materials for the NutrEpi Work Package 1 (ganad) project.
 
