@@ -56,4 +56,4 @@ There are no noticeable differences between L2:L1 and L3:L1 as well as hypo- and
 - [List of DMCs - L3 vs. L1 (top 100)]({{ site.baseurl }}/docs/dmc-l3l1-top100/){: .btn}
 - [List of DMCs - L2 vs. L1 (full list)]({{ site.baseurl }}/docs/dmc-l2l1-full/){: .btn}
 - [List of DMCs - L3 vs. L1 (full list)]({{ site.baseurl }}/docs/dmc-l3l1-full/){: .btn}
-- [Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn}
+- [Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#13-excel-files-for-degs-dmcs-and-dmgs){: .btn}

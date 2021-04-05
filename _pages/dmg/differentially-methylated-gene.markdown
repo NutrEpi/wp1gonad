@@ -74,4 +74,4 @@ Most DMGs have only one DMC for both L2:L1 and L3:L1.
 - [List of DMGs - L3 vs. L1 (promoter)]({{ site.baseurl }}/docs/dmg-l3l1-multi-dmcs-promoter/){: .btn}
 - [List of DMGs - L2 vs. L1 (full list)]({{ site.baseurl }}/docs/dmg-l2l1-full/){: .btn}
 - [List of DMGs - L3 vs. L1 (full list)]({{ site.baseurl }}/docs/dmg-l3l1-full/){: .btn}
-- [Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn}
+- [Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#13-excel-files-for-degs-dmcs-and-dmgs){: .btn}
