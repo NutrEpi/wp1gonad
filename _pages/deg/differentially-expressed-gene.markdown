@@ -55,4 +55,4 @@ L3 diet affected gene expression profiles more than L2 diet in terms of the numb
 ## List of DEGs
 - [List of DEGs - L2 vs. L1]({{ site.baseurl }}/docs/deg-l2l1/){: .btn}
 - [List of DEGs - L3 vs. L1]({{ site.baseurl }}/docs/deg-l3l1/){: .btn}
-- [Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn}
+- [Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#13-excel-files-for-degs-dmcs-and-dmgs){: .btn}

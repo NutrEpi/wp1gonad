@@ -22,7 +22,7 @@ We identified 97 DEGs for L3:L1 when the following criteria were applied and L1 
 - [List of DEGs - L2 vs. L1]({{ site.baseurl }}/docs/deg-l2l1/){: .btn}
 
 ## Relevant Excel files
-[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
+[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#13-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
 
 {% capture excel %}
 - Dataset_02_DEG_L3L1.xlsx
