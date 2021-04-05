@@ -24,7 +24,7 @@ We identified 26995 DMCs for L3:L1 when the following criteria were applied and 
 - [DMCs L3:L1 (full list)]({{ site.baseurl }}/docs/dmc-l3l1-full/){: .btn}
 
 ## Relevant Excel files
-[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
+[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#13-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
 
 {% capture excel %}
 - Dataset_04_CpG_L3L1.xlsx

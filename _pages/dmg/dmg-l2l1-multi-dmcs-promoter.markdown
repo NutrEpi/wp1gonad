@@ -26,7 +26,7 @@ We identified 9774 DMGs for L2:L1. We defined DMGs as the genes that required th
 - [DMGs L3:L1 (full list)]({{ site.baseurl }}/docs/dmg-l3l1-full/){: .btn}
 
 ## Relevant Excel files
-[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
+[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#13-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
 
 {% capture excel %}
 - Dataset_07_DMG_L2L1.xlsx
