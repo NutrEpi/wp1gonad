@@ -18,22 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: NutrEpi WP1 Liver
+#title: NutrEpi WP1 Gonad
 #email: takaya.saito@imr.no
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Gene expression and DNA methylation data of "Micronutrient supplementation affects
 #  transcriptional and epigenetic regulation of lipid metabolism
 #  in a dose-dependent manner".
 #baseurl: "" # the subpath of your site, e.g. /blog
-#baseurl: "/wp1liver"
+#baseurl: "/wp1gonad"
 #url: "https://nutrepi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  takayasaito
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
