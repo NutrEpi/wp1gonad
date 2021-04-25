@@ -4,6 +4,8 @@ main:
     url: /
   - title: "How to cite"
     url: /how-to-cite/
+  - title: "Links"
+    url: /docs/links/
   - title: "Contact"
     url: /contact/
   - title: Terms and Privacy Policy
