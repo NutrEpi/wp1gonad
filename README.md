@@ -18,7 +18,7 @@ The development and maintenance of this website is based on Jekyll - simple, blo
 - [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top) (Back To Top JS button)
 - [Google Analytics](https://analytics.google.com/analytics/web/) (Website traffic report)
 
-## Search engine indexing
+## Search engine index
 Our sitemap.xml is registered with search engines by using the following tools.
 
 - [Google Search Console](https://search.google.com/search-console/)
